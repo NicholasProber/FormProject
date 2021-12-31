@@ -238,7 +238,13 @@ select {
     border-radius: 5px;
 }
 .bottom-text-position {
-    margin-right: 30px;
+    text-align: center;
+  
+   padding-right: 11.1%;
+    
+}
+footer {
+   margin-bottom: 50px; 
 }
 
 @media screen and (min-width: 768px) {
