@@ -226,6 +226,9 @@ p {
     margin: 0;
     padding: 0;
 }
+button {
+    cursor: pointer;
+}
 .p-light-color {
     font-size: 12px;
 }
@@ -239,8 +242,8 @@ select {
 }
 .bottom-text-position {
     text-align: center;
-  
-   padding-right: 11.1%;
+   margin: 0 auto;
+   padding-right: 9.0%;
     
 }
 footer {
